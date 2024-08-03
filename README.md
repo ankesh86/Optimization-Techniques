@@ -7,4 +7,4 @@
 - Linear Equation - Techniques
 - Neural Network - Unconstrained Optimization
 - Global Search method
-- - Simplex Search Method
+  - Simplex Search Method
